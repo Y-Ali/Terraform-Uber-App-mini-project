@@ -10,14 +10,15 @@ The main.tf file contains:
 - 1 security group for each instance
 - Key pair
 
-### Clone this repository
+### Getting Started
+#### Clone this repository
 In your terminal:
 
 `git clone git@github.com:Y-Ali/terraform-uber-app.git`
 
 `git pull origin master`
 
-### Create an instance on AWS
+#### Create an instance on AWS
 Navigate to your directory with the project and type:
 
 `terraform apply`
