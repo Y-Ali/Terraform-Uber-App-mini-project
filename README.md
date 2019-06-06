@@ -1,6 +1,7 @@
 # Terraform Uber App
 
 This repositiory contains a project that uses Terraform to automate the process of running an uber app on AWS
+
 The main.tf file contains:
 
 - 1 VPC
